@@ -12,7 +12,7 @@ with open('LICENSE') as f:
 setup(
     name='fever-eda',
     version='0.1.0',
-    description='eda tools for fever'
+    description='eda tools for fever',
     long_description=readme,
     author='Miori Igarashi',
     author_email='miorgash@gmail.com',
